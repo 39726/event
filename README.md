@@ -9,9 +9,9 @@ end)
 
 task.wait(2)
 
-test.Value = 20
+test.Value = 20             -- will fire the function
 
 task.wait(2)
 
-test.Value = 30
+test.Value = 30             -- will fire the function
 ```
